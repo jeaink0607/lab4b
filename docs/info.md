@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A single button changes the lights of A and B depending on the D Latch
 
 ## How to test
 
-Explain how to use your project
+Press button multiple times to see the different outputs it produces
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED lights
